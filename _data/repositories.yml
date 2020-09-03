@@ -1,0 +1,10 @@
+github_users:
+  - luiz-resende
+
+github_repos:
+  - luiz-resende/EvalEx
+  - luiz-resende/HEC_MATH_80624_project
+  - luiz-resende/StochasticOptimization
+  - luiz-resende/ReinforcementLearning
+  - luiz-resende/CNN-MNISTclassification
+  - luiz-resende/MLalgorithm-NLPclassification

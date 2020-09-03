@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-10-03 20:30:00-0400
+inline: true # Whether (`true`) or not (`false`) is an inline announcement.
 ---
 
-A simple inline announcement.
+This is an example of a simple inline announcement.
